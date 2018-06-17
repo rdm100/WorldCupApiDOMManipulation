@@ -1,0 +1,43 @@
+body{
+  background-color:rgb(216, 238, 236);
+  margin:0;
+  width:100%;
+  height:100%;
+  background: url("./WorldCup2018.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
+img {
+  max-height: 300px;
+  max-width: 300px;
+  padding: 0px 10px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+h1{
+ display: block;
+ font-size: 30px;
+}
+
+/*#main{
+  display: flex;
+  justify-content: flex-start;
+}*/
+
+/*#players{
+  display: flex;
+  justify-content: flex-start;
+}
+
+#team-details{
+display: flex;
+justify-content: flex-start;
+}*/
+
